@@ -29,7 +29,13 @@ In case of any crisis like COVID-19, communication systems are the first to over
 
 ### How can technology help?
 
-Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
+Govt should expose the common APIs to be consumed by all the channels. The wrappers can be developed on top of these APIs so that multiple channels can be created. Soe of the channels we have tried in this Hackathon are:
+
+1. Node.JS Website hosted on IBM Cloud Foundry
+2. Whatsapp - Using Twillo 
+3. Twitter - Automated posting of authentic Information on Govt of India Designated Twitter handle.
+4. Alexa - Hey Alexa, How many new covid pateints in Delhi today?
+5.
 
 ### The idea
 
