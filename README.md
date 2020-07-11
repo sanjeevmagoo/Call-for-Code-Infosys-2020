@@ -25,7 +25,7 @@ This GitHub repository is part of 'Infosys and IBM Hackathon 2020 - Call for Cod
 
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time,  keeping them engaged, entertained, and on top of their education is important.
+In case of any crisis like COVID-19, communication systems are the first to overwhelm, when people are looking for authentic and timely information. As a result, it's the responsibility of the Govt to provide accurete and timly information to it's Citizens. It is important that the source of the data remains same while consumed from multiple channals so the same infmramtion flows regardeless of the channel selected by the end user.
 
 ### How can technology help?
 
