@@ -91,10 +91,12 @@ You can find a running system to test at [Node.js Website](https://covid19test-r
 ## Built with
 
 * [IBM Cloud](https://cloud.ibm.com/catalog?search=ibm%20cloud#search_results) - Various IBM Cloud Services
+* [IBM Watson](https://cloud.ibm.com/catalog?search=ibm%20watson#search_results) - multi-channel Bot framework
 * [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handling logic
 * [IBM Cloud Foundry](https://cloud.ibm.com/catalog?search=cloud%20foundry#search_results) - The compute platform for hosting applications
 * [Twillo](https://www.twilio.com/) - To integrate with Whatsapp
 * [Alexa](https://developer.amazon.com/en-GB/alexa/) - To build the conversational app
+* [CICD using IBM Cloud Foundry build in services](https://www.ibm.com/in-en/cloud) - To build CICD solution
 
 
 ![Fully CICD Soultion using IBM Services](https://github.com/sanjeevmagoo/Call-for-Code-Infosys-Bend-The-Curve-Team/blob/master/CICD.JPG)
