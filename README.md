@@ -38,7 +38,10 @@ Govt should expose the common APIs to be consumed by all the channels. The wrapp
 
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+The efficacy of any crisis communication strategy, especially during public health disasters, depend equally on the accuracy of information disseminated and also its inclusivity. As the term ‘communication’ is expressive in itself, the interpretation and receptivity towards the messaging varies for different groups.
+
+It's imperative that commuication culture has to improve from the traditional way because people use multiple channels to find the inromation.
+Providing a set of open source APIs, backed by IBM Cloud and Watson Services, will enable innovators to conveniently make information available to public, regardless of the selected channel.
 
 ## Demo video
 
@@ -65,64 +68,11 @@ To take it to local Govt agencies for approval and implementation.
 
 ## Getting started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Different services need to be setup as per the architecture.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```bash
-dnf install wget
-wget http://www.example.com/install.sh
-bash install.sh
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be, for example
-
-```bash
-export TOKEN="fffd0923aa667c617a62f5A_fake_token754a2ad06cc9903543f1e85"
-export EMAIL="jane@example.com"
-dnf install npm
-node samplefile.js
-Server running at http://127.0.0.1:3000/
-```
-
-And repeat
-
-```bash
-curl localhost:3000
-Thanks for looking at Code-and-Response!
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why, if you were using something like `mocha` for instance
-
-```bash
-npm install mocha --save-dev
-vi test/test.js
-./node_modules/mocha/bin/mocha
-```
-
-### And coding style tests
-
-Explain what these tests test and why, if you chose `eslint` for example
-
-```bash
-npm install eslint --save-dev
-npx eslint --init
-npx eslint sample-file.js
-```
+IBM Cloud service
 
 ## Live demo
 
@@ -130,12 +80,12 @@ You can find a running system to test at [Node.js Website](https://covid19test-r
 
 ## Built with
 
-* [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
+* [IBM Cloud](https://cloud.ibm.com/catalog?search=IBM Cloud#search_results) - The NoSQL database used
 * [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
-* [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [IBM Cloud Foundry](https://cloud.ibm.com/catalog?search=cloud%20foundry#search_results) - The compute platform for hosting applications
+* [Twillo](https://www.twilio.com/) - To integrate Whatsapp
+* [Alexa](https://developer.amazon.com/en-GB/alexa/) - To build conversational app
+
 
 ![Fully CICD Soultion using IBM Services](https://github.com/sanjeevmagoo/Call-for-Code-Infosys-Bend-The-Curve-Team/blob/master/CICD.JPG)
 
