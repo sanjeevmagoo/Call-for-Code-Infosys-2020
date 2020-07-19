@@ -134,7 +134,7 @@ You can find a running system to test at [Node.js Website](https://covid19test-r
 * [Maven](https://maven.apache.org/) - Dependency management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-![Fully CICD Soultion using IBM Services](https://github.com/sanjeevmagoo/Call-for-Code-Infosys-Bend-The-Curve-Team/blob/master/CICD.JPG){:height="512px" width="512px"}
+![Fully CICD Soultion using IBM Services](https://github.com/sanjeevmagoo/Call-for-Code-Infosys-Bend-The-Curve-Team/blob/master/CICD.JPG)
 
 ## Contributing
 
