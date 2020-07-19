@@ -25,7 +25,7 @@ This GitHub repository is part of 'Infosys and IBM Hackathon 2020 - Call for Cod
 
 ### What's the problem?
 
-In case of any crisis like COVID-19, communication systems are the first to overwhelm, when people are looking for authentic and timely information. As a result, it's the responsibility of the Govt to provide accurete and timly information to it's Citizens. It is important that the source of the data remains same while consumed from multiple channals so the same infmramtion flows regardeless of the channel selected by the end user.
+In case of any crisis like COVID-19, communication systems are the first to overwhelm, when people are looking for authentic and timely information. As a result, it's the responsibility of the Govt to provide accurate and timely information to it's Citizens. The source of the data must remain the same while consumed from multiple channels so the same information flows regardless of the channel selected by the end-user.
 
 ### How can technology help?
 
@@ -34,14 +34,13 @@ Govt should expose the common APIs to be consumed by all the channels. The wrapp
 1. Node.JS Website hosted on IBM Cloud Foundry.
 2. Whatsapp - Using Twillo - To reach the masses, Govt has to be on Whatsapp.
 3. Twitter - Automated posting of authentic Information on Govt of India Designated Twitter handle.
-4. Alexa - Hey Alexa, How many new covid pateints in Delhi today?
+4. Alexa - Hey Alexa, How many new COVID patients in Delhi today?
 
 ### The idea
 
-The efficacy of any crisis communication strategy, especially during public health disasters, depend equally on the accuracy of information disseminated and also its inclusivity. As the term ‘communication’ is expressive in itself, the interpretation and receptivity towards the messaging varies for different groups.
+The efficacy of any crisis communication strategy, especially during public health disasters, depends equally on the accuracy of information disseminated and also its inclusivity. As the term ‘communication’ is expressive in itself, the interpretation and receptivity towards the messaging vary for different groups.
 
-It's imperative that commuication culture has to improve from the traditional way because people use multiple channels to find the inromation.
-Providing a set of open source APIs, backed by IBM Cloud and Watson Services, will enable innovators to conveniently make information available to public, regardless of the selected channel.
+Communication culture must improve from the traditional way because people use multiple channels to find the information. Providing a set of open-source APIs, backed by IBM Cloud and Watson Services, will enable innovators to conveniently make information available to the public, regardless of the selected channel.
 
 ## Demo video
 
@@ -51,8 +50,8 @@ Providing a set of open source APIs, backed by IBM Cloud and Watson Services, wi
 
 ![Multi-Channel Crisis Communication Program using IBM Cloud Services](https://github.com/sanjeevmagoo/Call-for-Code-Infosys-Bend-The-Curve-Team/blob/master/Solution.jpeg)
 
-1. The user uses multiple Channels to gain authenic Covid information from multiple sources.
-2. A combination of IBM services like Watson, Cloud foundry, CICD, Cloud Functions come together to provide seamless information regardless of the selected channel .
+1. The user uses multiple Channels to gain authentic COVID information from multiple sources.
+2. A combination of IBM services like Watson, Cloud foundry, CICD, Cloud Functions come together to provide seamless information regardless of the selected channel.
 
 
 ## Long description
@@ -68,7 +67,7 @@ To take it to local Govt agencies for approval and implementation.
 
 ## Getting started
 
-Different services need to be setup as per the architecture.
+Different services need to be set up as per the architecture.
 
 ### Prerequisites
 
@@ -81,10 +80,10 @@ You can find a running system to test at [Node.js Website](https://covid19test-r
 ## Built with
 
 * [IBM Cloud](https://cloud.ibm.com/catalog?search=ibm%20cloud#search_results) - Various IBM Cloud Services
-* [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
+* [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handling logic
 * [IBM Cloud Foundry](https://cloud.ibm.com/catalog?search=cloud%20foundry#search_results) - The compute platform for hosting applications
-* [Twillo](https://www.twilio.com/) - To integrate Whatsapp
-* [Alexa](https://developer.amazon.com/en-GB/alexa/) - To build conversational app
+* [Twillo](https://www.twilio.com/) - To integrate with Whatsapp
+* [Alexa](https://developer.amazon.com/en-GB/alexa/) - To build the conversational app
 
 
 ![Fully CICD Soultion using IBM Services](https://github.com/sanjeevmagoo/Call-for-Code-Infosys-Bend-The-Curve-Team/blob/master/CICD.JPG)
@@ -107,5 +106,6 @@ This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE)
 
 ## Acknowledgments
 
-* IBM Cloud Team who provided the services to hsotthe solution
+* IBM Cloud Team that provided the services to host the solution
 * Masterhacks for providing the required guidance
+* IBM and Infosys teams for coming together for such a wonderful platform for learning and sharing
