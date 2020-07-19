@@ -136,6 +136,8 @@ You can find a running system to test at [callforcode.mybluemix.net](http://call
 * [Maven](https://maven.apache.org/) - Dependency management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
+![Fully CICD Soultion using IBM Services](https://github.com/sanjeevmagoo/Call-for-Code-Infosys-Bend-The-Curve-Team/blob/master/CICD.JPG)
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
