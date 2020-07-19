@@ -44,7 +44,7 @@ Communication culture must improve from the traditional way because people use m
 
 ## Demo video
 
-[![Watch the video](https://github.com/sanjeevmagoo/Call-for-Code-Infosys-Bend-The-Curve-Team/blob/master/Solution.jpeg)](https://youtu.be/PRoKspmInks)
+[![Watch the video](https://github.com/sanjeevmagoo/Call-for-Code-Infosys-Bend-The-Curve-Team/blob/master/Thumb.JPG)](https://youtu.be/PRoKspmInks)
 
 ## The architecture
 
