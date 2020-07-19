@@ -80,7 +80,7 @@ You can find a running system to test at [Node.js Website](https://covid19test-r
 
 ## Built with
 
-* [IBM Cloud](https://cloud.ibm.com/catalog?search=IBM Cloud#search_results) - Various IBM Cloud Services
+* [IBM Cloud](https://cloud.ibm.com/catalog?search=ibm%20cloud#search_results) - Various IBM Cloud Services
 * [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
 * [IBM Cloud Foundry](https://cloud.ibm.com/catalog?search=cloud%20foundry#search_results) - The compute platform for hosting applications
 * [Twillo](https://www.twilio.com/) - To integrate Whatsapp
