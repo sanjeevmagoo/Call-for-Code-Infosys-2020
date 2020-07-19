@@ -29,12 +29,15 @@ In case of any crisis like COVID-19, communication systems are the first to over
 
 ### How can technology help?
 
-Govt should expose the common APIs to be consumed by all the channels. The wrappers can be developed on top of these APIs so that multiple channels can be created. Soe of the channels we have tried in this Hackathon are:
+Govt can expose the common APIs to be consumed by multiple channels. The wrappers can be developed on top of these APIs, so that multiple channels can be created by innovators. 
+
+Some of the channels we have tried in this Hackathon are:
 
 1. Node.JS Website hosted on IBM Cloud Foundry.
 2. Whatsapp - Using Twillo - To reach the masses, Govt has to be on Whatsapp.
 3. Twitter - Automated posting of authentic Information on Govt of India Designated Twitter handle.
 4. Alexa - Hey Alexa, How many new COVID patients in Delhi today?
+
 
 ### The idea
 
@@ -45,6 +48,14 @@ Communication culture must improve from the traditional way because people use m
 ## Demo video
 
 [![Watch the video](https://github.com/sanjeevmagoo/Call-for-Code-Infosys-Bend-The-Curve-Team/blob/master/Thumb.JPG)](https://youtu.be/PRoKspmInks)
+
+
+Some of the channels we have tried in this Hackathon are:
+
+1. Node.JS Website hosted on IBM Cloud Foundry.
+2. Whatsapp - Using Twillo - To reach the masses, Govt has to be on Whatsapp.
+3. Twitter - Automated posting of authentic Information on Govt of India Designated Twitter handle.
+4. Alexa - Hey Alexa, How many new COVID patients in Delhi today?
 
 ## The architecture
 
