@@ -54,11 +54,12 @@ It's imperative that learning and creating can continue when educational institu
 
 ## Long description
 
-[More detail is available here](DESCRIPTION.md)
+[Whatsapp and Alexa Integration](https://github.com/sanjeevmagoo/Call-for-Code-Infosys-Bend-The-Curve-Team/blob/master/WhatsApp-Alexa.jpeg)
+[Twitter Integration](https://github.com/sanjeevmagoo/Call-for-Code-Infosys-Bend-The-Curve-Team/blob/master/Twitter.jpeg)
 
 ## Project roadmap
 
-![Roadmap](roadmap.jpg)
+To take it to local Govt agencies for approval and implementation.
 
 ## Getting started
 
