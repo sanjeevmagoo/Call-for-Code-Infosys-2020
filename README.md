@@ -44,7 +44,7 @@ Communication culture must improve from the traditional way because people use m
 
 ## Demo video
 
-[![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](https://github.com/sanjeevmagoo/Call-for-Code-Infosys-Bend-The-Curve-Team/blob/master/Solution.jpeg)](https://youtu.be/PRoKspmInks)
 
 ## The architecture
 
