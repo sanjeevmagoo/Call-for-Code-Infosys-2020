@@ -80,7 +80,7 @@ You can find a running system to test at [Node.js Website](https://covid19test-r
 
 ## Built with
 
-* [IBM Cloud](https://cloud.ibm.com/catalog?search=IBM Cloud#search_results) - The NoSQL database used
+* [IBM Cloud](https://cloud.ibm.com/catalog?search=IBM Cloud#search_results) - Various IBM Cloud Services
 * [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
 * [IBM Cloud Foundry](https://cloud.ibm.com/catalog?search=cloud%20foundry#search_results) - The compute platform for hosting applications
 * [Twillo](https://www.twilio.com/) - To integrate Whatsapp
@@ -99,9 +99,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/Code-and-Response/Project-Sample/graphs/contributors) who participated in this project.
+* **Sanjeev Kumar** - Sanjeev_Magoo@infosys.com
 
 ## License
 
@@ -109,4 +107,5 @@ This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE)
 
 ## Acknowledgments
 
-* Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
+* IBM Cloud Team who provided the services to hsotthe solution
+* Masterhacks for providing the required guidance
