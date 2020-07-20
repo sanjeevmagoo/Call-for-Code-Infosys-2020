@@ -69,6 +69,14 @@ Some of the channels we have tried in this Hackathon are:
 
 You can find a running system to test at [Node.js Website](https://covid19test-reflective-quokka-vo.eu-gb.mybluemix.net)
 
+To test Whatsapp integration
+  1. Save +1(415)523-8886 to your phone Book.
+  2. Open Whatsapp
+  3. Send hi
+  4. Send "daily confirmed cases" 
+  5. Send "total recovered"
+
+
 ![Whatsapp and Alexa Integration](https://github.com/sanjeevmagoo/Call-for-Code-Infosys-Bend-The-Curve-Team/blob/master/WhatsApp-Alexa.jpeg)
 ![Twitter Integration](https://github.com/sanjeevmagoo/Call-for-Code-Infosys-Bend-The-Curve-Team/blob/master/Twitter.jpeg)
 
@@ -87,6 +95,13 @@ IBM Cloud service
 ## Live demo
 
 You can find a running system to test at [Node.js Website](https://covid19test-reflective-quokka-vo.eu-gb.mybluemix.net)
+
+To test Whatsapp integration
+  1. Save +1(415)523-8886 to your phone Book.
+  2. Open Whatsapp
+  3. Send hi
+  4. Send "daily confirmed cases" 
+  5. Send "total recovered"
 
 ## Built with
 
