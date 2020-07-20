@@ -72,9 +72,11 @@ You can find a running system to test at [Node.js Website](https://covid19test-r
 To test Whatsapp integration
   1. Save +1(415)523-8886 to your phone Book.
   2. Open Whatsapp
-  3. Send hi
-  4. Send "daily confirmed cases" 
-  5. Send "total recovered"
+  3. message "join cattle-lungs" to the above number once you have saved the contact. This is logical name for our application with Twillo
+  4. Send hi to test it. You should get response "Hello there!"
+  5. Send "daily confirmed cases" 
+  6. Send "total recovered"
+  7. Try these phrases - Daily confirmed cases, daily deceased, daily recovered, total confirmed cases, total deceased, total recovered
 
 
 ![Whatsapp and Alexa Integration](https://github.com/sanjeevmagoo/Call-for-Code-Infosys-Bend-The-Curve-Team/blob/master/WhatsApp-Alexa.jpeg)
@@ -99,9 +101,11 @@ You can find a running system to test at [Node.js Website](https://covid19test-r
 To test Whatsapp integration
   1. Save +1(415)523-8886 to your phone Book.
   2. Open Whatsapp
-  3. Send hi
-  4. Send "daily confirmed cases" 
-  5. Send "total recovered"
+  3. message "join cattle-lungs" to the above number once you have saved the contact. This is logical name for our application with Twillo
+  4. Send hi to test it. You should get response "Hello there!"
+  5. Send "daily confirmed cases" 
+  6. Send "total recovered"
+  7. Try these phrases - Daily confirmed cases, daily deceased, daily recovered, total confirmed cases, total deceased, total recovered
 
 ## Built with
 
